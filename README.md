@@ -1,1 +1,2 @@
-# C26-Class-Activity
+# PRO-C25-SA
+boilerplate code for student activituy
